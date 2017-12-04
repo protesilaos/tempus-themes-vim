@@ -67,3 +67,7 @@ colorscheme tempus_winter
 ```
 
 Enjoy!
+
+## Additional resources
+
+For all available ports, refer to the main [Tempus themes repo](https://github.com/protesilaos/tempus-themes).
