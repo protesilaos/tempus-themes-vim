@@ -71,3 +71,11 @@ Enjoy!
 ## Additional resources
 
 For all available ports, refer to the main [Tempus themes repo](https://github.com/protesilaos/tempus-themes).
+
+## Contributing
+
+All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://github.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
+
+## License
+
+GNU General Public License Version 3. See [LICENSE](https://github.com/protesilaos/tempus-themes-vim/blob/master/LICENSE).
