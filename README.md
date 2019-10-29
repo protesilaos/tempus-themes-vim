@@ -68,6 +68,10 @@ colorscheme tempus_winter
 
 Enjoy!
 
+## 3 GNU/Linux Package
+
+If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-vim-git/).
+
 ## Additional resources
 
 For more information about this project, screenshots, and all available ports, refer to the main [Tempus themes repo](https://gitlab.com/protesilaos/tempus-themes).
