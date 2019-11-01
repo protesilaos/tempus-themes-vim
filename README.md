@@ -76,17 +76,11 @@ If you use Arch Linux or derivatives, you can get these themes from the [AUR](ht
 
 For more information about this project, screenshots, and all available ports, refer to the main [Tempus themes repo](https://gitlab.com/protesilaos/tempus-themes).
 
-## Contributing
-
-All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://gitlab.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
-
 ## License
 
 GNU General Public License Version 3. See [LICENSE](https://gitlab.com/protesilaos/tempus-themes-vim/blob/master/LICENSE).
 
 ## Meta
-
-The Tempus themes project consists of a number of repositories. It is maintained with a set of scripts and utilities, stored in the [tempus-themes-utils](https://gitlab.com/protesilaos/tempus-themes-utils).
 
 All theme files are created with the [Tempus themes generator](https://gitlab.com/protesilaos/tempus-themes-generator). See the generator CONTRIBUTING.md.
 
